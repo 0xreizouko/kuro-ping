@@ -7,7 +7,7 @@ void show_banner() {
     printf("│                 kping                      │\n");
     printf("│           kuro ping • v1.0                 │\n");
     printf("│                                            │\n");
-    printf("│  Ping but cooler becauase it's Kuro.       │\n");
+    printf("│  Ping but cooler because it's Kuro.        │\n");
     printf("│  for the modern command line.              │\n");
     printf("└────────────────────────────────────────────┘\n");
     printf("usage: kping <IP>");
